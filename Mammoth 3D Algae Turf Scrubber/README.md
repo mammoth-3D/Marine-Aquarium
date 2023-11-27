@@ -1,4 +1,4 @@
-# Mammoth-3D Algae Turf Scrubber <a href='https://ko-fi.com/X7X1OBP95' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://.png?v=3' border='0' alt='Mammoth-3D Shop' /></a>
+# Mammoth-3D Algae Turf Scrubber <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Mammoth-3D Shop', '#e80510', 'X7X1OBP95');kofiwidget2.draw();</script> 
 
 3D Printed Equipment for your Marine Aquarium.
 
